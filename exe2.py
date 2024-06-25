@@ -6,7 +6,7 @@ match O1:
     case "+":
         print(n1 + n2)
     case "-":
-       print(n1 - n2)
+        print(n1 - n2)
     case"*":
         print(n1 * n2)
     case "/":
